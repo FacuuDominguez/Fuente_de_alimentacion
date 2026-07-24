@@ -4,7 +4,7 @@
 
  ## Caracteristicas
 
-- Integra un modulo lm2596 **Embebido**
+- Integra un modulo LM2596 **Embebido**
 
 - Un puente rectificador de diodos
 
